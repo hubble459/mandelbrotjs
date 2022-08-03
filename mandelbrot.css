@@ -1,0 +1,12 @@
+.mandelbrot-menu {
+    position: absolute;
+    background-color: #69696969;
+    border-radius: 1rem;
+    top: 1rem;
+    left: 1rem;
+    padding: .5rem;
+}
+
+canvas {
+    position: absolute;
+}
